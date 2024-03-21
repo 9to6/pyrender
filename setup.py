@@ -52,7 +52,7 @@ setup(
     author='Matthew Matl',
     author_email='matthewcmatl@gmail.com',
     license='MIT License',
-    url = 'https://github.com/mmatl/pyrender',
+    url = 'https://github.com/9to6/pyrender',
     classifiers = [
         'Development Status :: 4 - Beta',
         'License :: OSI Approved :: MIT License',
